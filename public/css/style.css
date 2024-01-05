@@ -1,0 +1,67 @@
+:root {
+    --color-1: #053b3a;
+    --color-2: #f4b000;
+    --color-3: #336a40;
+    --color-4: #353535;
+    --color-5: rgb(20, 73, 120);
+    --color-6: #006a4e;
+    --color-7: #082444;
+    --color-8: #9ae6ac;
+    --color-9: #afafaf;
+}
+
+.text-abu-1 {
+    color: var(--color-9);
+}
+
+.bg-hijau-1 {
+    background-color: var(--color-1);
+}
+
+.bg-hijau-2 {
+    background-color: var(--color-3);
+}
+
+.bg-hijau-3 {
+    background-color: var(--color-6);
+}
+
+.bg-hijau-4 {
+    background-color: var(--color-8);
+}
+
+.bg-kuning-1 {
+    background-color: var(--color-2);
+}
+
+.bg-biru-1 {
+    background-color: var(--color-5);
+}
+
+.bg-biru-2 {
+    background-color: var(--color-7);
+}
+
+.bg-cokelat-1 {
+    background-color: var(--color-4);
+}
+
+.active-chat {
+    background-color: rgb(226, 226, 226);
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+body {
+    margin-bottom: -200px;
+}
+
+.white-icon {
+    color: white !important;
+}   
